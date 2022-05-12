@@ -1,0 +1,16 @@
+E:\Kars\Subway\Subway\bin\Debug\net5.0\Subway.exe
+E:\Kars\Subway\Subway\bin\Debug\net5.0\Subway.deps.json
+E:\Kars\Subway\Subway\bin\Debug\net5.0\Subway.runtimeconfig.json
+E:\Kars\Subway\Subway\bin\Debug\net5.0\Subway.runtimeconfig.dev.json
+E:\Kars\Subway\Subway\bin\Debug\net5.0\Subway.dll
+E:\Kars\Subway\Subway\bin\Debug\net5.0\Subway.pdb
+E:\Kars\Subway\Subway\obj\Debug\net5.0\Subway.csproj.AssemblyReference.cache
+E:\Kars\Subway\Subway\obj\Debug\net5.0\Subway.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kars\Subway\Subway\obj\Debug\net5.0\Subway.AssemblyInfoInputs.cache
+E:\Kars\Subway\Subway\obj\Debug\net5.0\Subway.AssemblyInfo.cs
+E:\Kars\Subway\Subway\obj\Debug\net5.0\Subway.csproj.CoreCompileInputs.cache
+E:\Kars\Subway\Subway\obj\Debug\net5.0\Subway.dll
+E:\Kars\Subway\Subway\obj\Debug\net5.0\refint\Subway.dll
+E:\Kars\Subway\Subway\obj\Debug\net5.0\Subway.pdb
+E:\Kars\Subway\Subway\obj\Debug\net5.0\Subway.genruntimeconfig.cache
+E:\Kars\Subway\Subway\obj\Debug\net5.0\ref\Subway.dll
